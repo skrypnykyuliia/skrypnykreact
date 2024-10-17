@@ -1,13 +1,100 @@
-body {
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  color: #282828;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App {
+  margin: 0 auto;
+  max-width: 1400px;
+  background-color: var(--background-color);
+  box-shadow: 1px 0 50px rgb(0, 0, 0, 0.25);
+
+}
+
+:root {
+  --blue-color: #0d50ff;
+  --small-button: #8B8B8B;
+  --smallButton-hov: #ddd;
+  --background-color-light: #fff;
+  --text-color-light: #282828;
+  --background-color-dark: #373737;
+  --text-color-dark: #ffffff;
+  --background-color: var(--background-color-light);
+  --text-color: var(--text-color-light);
+  --background-color-footer: #505050;
+  --breadcrumb-bg-light: #ffffff;
+  --breadcrumb-bg-dark: #444;
+  --breadcrumb-text-light: #8b8b8b;
+  --breadcrumb-text-dark: #bfbfbf;
+  --breadcrumb-border-light: #dddddd;
+  --breadcrumb-border-dark: #8b8b8b;
+  --input-bg-light: #fff;
+  --input-bg-dark: #555;
+  --input-border-light: #ddd;
+  --input-border-dark: #adadad;
+  --body-bg-light: #e4e4e4;
+  --body-bg-dark: #1a1a1a;
+  --line-color-light: #dddddd;
+  --line-color-dark: #b0b0b0;
+  --header-bg-light: #ffffff;
+  --header-bg-dark: #333333;
+  --hover-light: #ededed;
+  --hover-dark: #555555;
+  --headernav-light: #282828;
+  --headernav-dark: #dddddd;
+  --nav-open-text-light: #282828;
+  --nav-open-text-dark: #282828;
+}
+
+.light {
+  --background-color: var(--background-color-light);
+  --text-color: var(--text-color-light);
+  --breadcrumb-bg: var(--breadcrumb-bg-light);
+  --breadcrumb-text: var(--breadcrumb-text-light);
+  --breadcrumb-border: var(--breadcrumb-border-light);
+  --input-bg: var(--input-bg-light);
+  --input-border: var(--input-border-light);
+  --body-bg: var(--body-bg-light);
+  --line-color: var(--line-color-light);
+  --icon: var(--icon-light);
+  --header-bg: var(--header-bg-light);
+  --hover-color: var(--hover-light);
+  --smallButton-hov: #d3d3d3;
+  --headernav-color: var(--headernav-light);
+  --nav-open-text: var(--nav-open-text-light);
+}
+
+.dark {
+  --background-color: var(--background-color-dark);
+  --text-color: var(--text-color-dark);
+  --breadcrumb-bg: var(--breadcrumb-bg-dark);
+  --breadcrumb-text: var(--breadcrumb-text-dark);
+  --breadcrumb-border: var(--breadcrumb-border-dark);
+  --input-bg: var(--input-bg-dark);
+  --input-border: var(--input-border-dark);
+  --body-bg: var(--body-bg-dark);
+  --line-color: var(--line-color-dark);
+  --icon: var(--icon-dark);
+  --header-bg: var(--header-bg-dark);
+  --hover-color: var(--hover-dark);
+  --smallButton-hov: #ddd;
+  --headernav-color: var(--headernav-dark);
+  --nav-open-text-dark: #282828;
+}
+
+body {
+  background-color: var(--body-bg);
+  color: var(--text-color);
+}
+
+
+@media (max-width: 1440px) {
+  .App {
+    border: none;
+  }
 }

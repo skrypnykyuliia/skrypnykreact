@@ -1,0 +1,129 @@
+
+.mainCategories_cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.mainCategories_contLink {
+  width: 100%;
+  text-decoration: none;
+}
+.mainCategories_contLine {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border: none;
+}
+.mainCategories_contLine:hover {
+  background-color: transparent;
+}
+.mainCategories_line {
+  width: 100%;
+  border-bottom: 1px solid #dddddd;
+}
+.mainCategories_contLine p {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  text-align: center;
+  color: #8b8b8b;
+  white-space: nowrap;
+  width: auto;
+  height: auto;
+  padding: 0.5rem 1rem;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+.mainCategories_contLine p:hover {
+  background-color: #ededed;
+}
+.CartPage_container {
+  width: 100%;
+  display: flex;
+  gap: 32px;
+  margin-top: 40px;
+}
+.CartPage_Oder_P {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 52px;
+  text-align: left;
+  color: #8b8b8b;
+}
+.CannotData {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.CannotData_btn {
+  width: 30%;
+  margin-top: 30px;
+}
+.CardText {
+  font-size: 20px;
+  color: var(--text-color);
+}
+
+.CardText.light {
+  color: var(--text-color-light);
+}
+
+.CardText.dark {
+  color: var(--text-color-dark);
+}
+
+
+
+@media (max-width: 1200px) {
+  .CartPage_container {
+    gap: 24px;
+  }
+}
+
+
+@media (max-width: 922px) {
+  .CardText {
+    font-size: 18px;
+  }
+  .CartPage_container {
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .CartPage_container {
+    flex-direction: column;
+  }
+  .CartProduct {
+    flex-direction: column;
+  }
+  .CartProduct_img {
+    width: 100%;
+  }
+  .CartProduct_counter_quant {
+    width: 100%;
+  }
+  .allProducts_textP {
+    font-size: 1.5rem;
+  }
+}
+
+
+@media (max-width: 576px) {
+  
+}
+
+@media (max-width: 480px) {
+  .CardText {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 390px) {
+  .CardText {
+    font-size: 12px;
+  }
+}

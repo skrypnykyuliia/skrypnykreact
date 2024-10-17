@@ -1,0 +1,148 @@
+{
+  "mainPage": "Startseite",
+  "categories": "Kategorien",
+  "allProducts": "Alle Produkte",
+  "allSales": "Alle Angebote",
+  "contact": "Kontakt",
+  "phone": "Telefon",
+  "social": "Sozial",
+  "address": "Adresse",
+  "workingHours": "Arbeitszeiten",
+  "hoursDay": "24 Stunden am Tag",
+  "amazingDiscounts": "Erstaunliche Rabatte!",
+  "onPetsProducts": "auf Haustierbedarf",
+  "checkOut": "Ansehen",
+  "firstOrderDiscount": "5% Rabatt auf die erste Bestellung",
+  "name": "Name",
+  "phoneNumber": "Telefonnummer",
+  "email": "E-Mail",
+  "getDiscount": "Rabatt erhalten",
+  "categoriesHome": "Kategorien",
+  "allCategories": "Alle Kategorien",
+  "sale": "Verkauf",
+  "allSalesHome": "Alle Angebote",
+  "discount": "-{{percentage}}%",
+  "productDetails": "Produktdetails",
+  "shoppingCart": "Einkaufswagen",
+  "page": "Seite",
+  "loading": "Wird geladen...",
+  "description": "Beschreibung",
+  "categoryTitle": "Kategorie",
+  "productTitle": "Produkt",
+  "addToCart": "Warenkorb",
+  "pageNotFound": "Seite nicht gefunden",
+  "pageNotFoundMessage": "Entschuldigung, die von Ihnen angeforderte Seite konnte nicht gefunden werden. Bitte kehren Sie zur Startseite zurück.",
+  "goHome": "Zur Startseite",
+  "priceFrom": "Preis ab",
+  "priceTo": "Preis bis",
+  "discounted": "Ermäßigt",
+  "newest": "Neueste",
+  "priceHighToLow": "Preis: Hoch zu Niedrig",
+  "priceLowToHigh": "Preis: Niedrig zu Hoch",
+  "price": "Preis",
+  "from": "ab",
+  "to": "bis",
+  "discountedItems": "Reduzierte Artikel",
+  "sorted": "Sortiert",
+  "byDefault": "standardmäßig",
+  "emptyCartMessage": "Es sieht so aus, als hätten Sie derzeit keine Artikel im Warenkorb.",
+  "remove": "Entfernen",
+  "orderDetails": "Bestelldetails",
+  "items": "Artikel",
+  "total": "Gesamt",
+  "continueShopping": "Einkauf fortsetzen",
+  "Congratul": "Gluckwunsch",
+  "orderSuccessTitle": "Bestellung erfolgreich",
+  "orderSuccessMessage": "Ihre Bestellung wurde erfolgreich auf der Website aufgegeben.",
+  "orderSuccessMessage1": "<br/>Ein Manager wird sich in Kürze mit Ihnen in Verbindung setzen, um Ihre Bestellung zu bestätigen.",
+  "added": "Hinzugefügt",
+  "backStore": "zum Geschäft",
+  "requestSubmitted": "Anfrage gesendet",
+
+  "categories.1": "Trocken Nassfutter",
+  "categories.2": "Katzentoiletten",
+  "categories.3": "Betten",
+  "categories.4": "Spielzeuge",
+  "categories.5": "Grooming",
+  "categories.6": "Ergänzungen",
+  "categories.7": "Laufställe",
+  "categories.8": "Kratzbäume",
+
+  "products": {
+    "1": {
+      "description": "Vielseitige Auswahl: Entdecken Sie die kulinarische Welt für Ihren kleinen vierbeinigen Freund mit 2 Arten von Trockenfutter und 6 Arten von Nassfutter. So ist für jeden Geschmack etwas dabei. Hohe Akzeptanz: Unsere ausgewogene Formel ist reich an essenziellen Nährstoffen, Vitaminen und Mineralstoffen und auf die Bedürfnisse kleiner Hunderassen abgestimmt. Eine Rundumversorgung, die keine Wünsche offen lässt. Trockenfutter: Finest GF Lamb - leicht verdaulich und eine Kroketten, die mit Instantsoße überzogen sind für extra Geschmack. Finest Croc - reich an Fleisch und mit Traubenkernmehl. Nassfutter: Sie erhalten eine Auswahl verschiedener Nassfuttersorten aus unserem Sortiment: Single-Protein-Huhn, Single-Protein-Büffel, Ente mit Reis und Cranberries, Kaninchen mit Hirse und Süßkartoffeln, Lamm mit Reis und Tomaten sowie Huhn/Ente mit Hirse und Kartoffeln. Hergestellt in Deutschland: Unser Futter wird nach den strengsten Qualitätsstandards in Deutschland hergestellt und enthält keine künstlichen Zusätze. Alle verwendeten Fleischprodukte stammen von tauglichen Tieren."
+    },
+    "2": {
+      "description": "Wirklich lecker: Das Trockenfutter für kleine Hunderassen bis zu 10 kg ermöglicht eine natürliche Ernährung Ihres vierbeinigen Freundes, ist vollständig auf seine Bedürfnisse abgestimmt, getreidefrei und ohne künstliche Zusätze hergestellt. Nur die besten Zutaten: Das Futter mit hochwertigem Muskelfleisch und Innereien ist leicht verdaulich und versorgt Ihre Fellnase mit wertvollen Ölen, wichtigen Vitaminen, Nährstoffen und essenziellen Fettsäuren. Genießen Sie getreidefrei: Das Trockenfutter ist ein vollwertiges Futter für kleine Hunderassen und verzichtet auf Getreide, Zuckerzusätze, künstliche Farbstoffe, Aromen und Konservierungsstoffe in allen Sorten."
+    },
+    "3": {
+      "description": "Premium: 100% frische, fleischige Zutaten und Innereien vom Land liefern die besten Proteine und sorgen für ein ganz besonderes Geschmackserlebnis mit diesem Katzenfutter. Für erwachsene Katzen: Carny Adult steht für eine ausgewogene, leckere und gesunde Ernährung und versorgt erwachsene Katzen im Alter von 1 bis 6 Jahren mit allen wichtigen Nährstoffen und einer Extraportion Taurin. Natürlich: Das Nassfutter für Katzen enthält natürlich ausschließlich frische Fleischzutaten, keine Geschmacksverstärker und weder Getreide, Zucker noch Soja, noch Farbstoffe und Konservierungsmittel."
+    },
+    "4": {
+      "description": "Getreidefreies Premium-Hundefutter mit Wildschwein - erwachsen. Original, artgerechte, 100% natürliche Zusammensetzung. Mit 70% tierischem Protein, 30% pflanzlichen Inhaltsstoffen. Hoher Fleischanteil sowie Gemüse, Obst, Kräuter und Beeren. Frei von chemischen Zusätzen, kein Zucker oder Soja."
+    },
+    "5": {
+      "description": "GESUNDE HAUT & GESUNDES FELL: Enthält Zink zur Unterstützung einer gesunden Haut und eines gesunden Fells. Angereichert mit Taurin, Vitamin E und Vitamin C, die für ihre Unterstützung der natürlichen Abwehrkräfte bekannt sind. Hergestellt aus hochwertigen Proteinen und Hefe, einer natürlichen Quelle von Präbiotika zur Unterstützung einer gesunden Verdauung. GESUNDER HARNWEG Ein kontrollierter Mineralstoffgehalt hilft, den unteren Harntrakt gesund zu halten. Mit angepasstem Protein- und Energiegehalt zur Unterstützung einer optimalen Gewichtskontrolle und körperlichen Verfassung."
+    },
+    "6": {
+      "description": "Genau richtig: Das Nassfutter Pure Sensitive mit Truthahn ist besonders geeignet für futtersensible oder empfindliche Hunde, die zu Unverträglichkeiten neigen. Das bedeutet, dass das Futter besonders hohen Ansprüchen gerecht wird. Ohne Getreide: Nach dem Single-Protein-Konzept enthält die Formel 100 % tierisches Protein aus Truthahn - nicht mehr und nicht weniger. Artgerecht: Mit MERA Pure Sensitive bieten Sie Ihrem Hund ein ganzheitliches Ernährungskonzept mit der Reduktion auf das Wesentliche, um das Allergiepotential zu reduzieren. Lassen Sie Ihren vierbeinigen Freund die Reinheit der Natur genießen."
+    },
+    "7": {
+      "description": "Natürlich schmackhaftes Hundefutter: mit viel frischem Fleisch, gefüllt mit hochwertigem und schmackhaftem Protein (kein Mehl, kein verarbeitetes oder getrocknetes Fleisch), kein GMO. Wir kochen die Zutaten schonend, um ihren Geschmack und ihre natürlichen Nährstoffe zu bewahren. Geeignet für erwachsene kastrierte oder nicht kastrierte Hunde aller Rassen und Größen. Mit einem getreidefreien und glutenfreien Sortiment ist unser Trockenfutter perfekt für empfindliche Mägen und enthält Präbiotika für einen gesunden Darm. Frisches Fleischfutter Dieses Rezept ist reich an frischem Lachs und Truthahn vom Bauernhof, gefüllt mit Omega-3 und 6 für ein weiches, glänzendes Fell und Fleisch zum Muskelaufbau und -erhalt."
+    },
+    "8": {
+      "description": "Niere – Royal Canin Veterinary Renal für Katzen hat eine spezielle Formel mit niedrigem Phosphorgehalt. Es ist ein vollständiges diätetisches Lebensmittel für erwachsene Katzen mit Nierenproblemen. Unterstützung der Nierenfunktion – das RC Veterinary Renal Katzenfutter hat einen moderaten Anteil an hochwertigen Proteinen, die zur Unterstützung der Nierenfunktion beitragen können. Lebensqualität – es kann helfen, die Lebensqualität der Katze zu verbessern. Ein angepasster Energiegehalt kann helfen, die Futtermenge zu reduzieren."
+    },
+    "9": {
+      "description": "Für erwachsene Hunde mit normaler bis gesteigerter Aktivität (mittlere bis große Rassen): vollwertiges Trockenfutter mit hohem Proteingehalt für die speziellen Ernährungsbedürfnisse erwachsener Hunde. Ausgewogener Protein- und Fettgehalt zur Entlastung von Leber, Nieren und Herz, für ein gesundes und glänzendes Fell. Niedriger Rohaschegehalt: leicht verdaulich, reduzierte Abfallmenge. Zutaten hauptsächlich aus Norddeutschland, Zusammensetzung: Geflügel, Lamm, Ei, Reis, ohne Weizen, Farbstoffe, Aromen oder Konservierungsstoffe."
+    },
+    "10": {
+      "description": "Einfache Entleerung und Reinigung: Mit einer herausziehbaren Schublade kann die Katzentoilette leicht entleert und mit neuer Streu befüllt werden. Eine beiliegende Schaufel und Bürste helfen, den Abfall zu schöpfen und die Streu oben oder in den Ecken zu reinigen. Das Gitterdesign oben reduziert die Bildung von Spuren und lässt die Streu in die Box zurückfallen. Dies reduziert die Spurenbildung im Haus und hält Ihr Zuhause sauber."
+    },
+    "11": {
+      "description": "Vielseitige Auswahl: Entdecken Sie die kulinarische Welt für Ihren kleinen vierbeinigen Freund mit 2 Arten von Trockenfutter und 6 Arten von Nassfutter. So ist für jeden Geschmack etwas dabei. Hohe Akzeptanz: Unsere ausgewogene Formel ist reich an essenziellen Nährstoffen, Vitaminen und Mineralstoffen und auf die Bedürfnisse kleiner Hunderassen abgestimmt. Eine Rundumversorgung, die keine Wünsche offen lässt. Trockenfutter: Finest GF Lamb - leicht verdaulich und eine Kroketten, die mit Instantsoße überzogen sind für extra Geschmack. Finest Croc - reich an Fleisch und mit Traubenkernmehl. Nassfutter: Sie erhalten eine Auswahl verschiedener Nassfuttersorten aus unserem Sortiment: Single-Protein-Huhn, Single-Protein-Büffel, Ente mit Reis und Cranberries, Kaninchen mit Hirse und Süßkartoffeln, Lamm mit Reis und Tomaten sowie Huhn/Ente mit Hirse und Kartoffeln. Hergestellt in Deutschland: Unser Futter wird nach den strengsten Qualitätsstandards in Deutschland hergestellt und enthält keine künstlichen Zusätze. Alle verwendeten Fleischprodukte stammen von tauglichen Tieren."
+    },
+    "12": {
+      "description": "Wirklich lecker: Das Trockenfutter für kleine Hunderassen bis zu 10 kg ermöglicht eine natürliche Ernährung Ihres vierbeinigen Freundes, ist vollständig auf seine Bedürfnisse abgestimmt, getreidefrei und ohne künstliche Zusätze hergestellt. Nur die besten Zutaten: Das Futter mit hochwertigem Muskelfleisch und Innereien ist leicht verdaulich und versorgt Ihre Fellnase mit wertvollen Ölen, wichtigen Vitaminen, Nährstoffen und essenziellen Fettsäuren. Genießen Sie getreidefrei: Das Trockenfutter ist ein vollwertiges Futter für kleine Hunderassen und verzichtet auf Getreide, Zuckerzusätze, künstliche Farbstoffe, Aromen und Konservierungsstoffe in allen Sorten."
+    },
+    "13": {
+      "description": "Premium: 100% frische, fleischige Zutaten und Innereien vom Land liefern die besten Proteine und sorgen für ein ganz besonderes Geschmackserlebnis mit diesem Katzenfutter. Für erwachsene Katzen: Carny Adult steht für eine ausgewogene, leckere und gesunde Ernährung und versorgt erwachsene Katzen im Alter von 1 bis 6 Jahren mit allen wichtigen Nährstoffen und einer Extraportion Taurin. Natürlich: Das Nassfutter für Katzen enthält natürlich ausschließlich frische Fleischzutaten, keine Geschmacksverstärker und weder Getreide, Zucker noch Soja, noch Farbstoffe und Konservierungsmittel."
+    },
+    "14": {
+      "description": "Getreidefreies Premium-Hundefutter mit Wildschwein - erwachsen. Original, artgerechte, 100% natürliche Zusammensetzung. Mit 70% tierischem Protein, 30% pflanzlichen Inhaltsstoffen. Hoher Fleischanteil sowie Gemüse, Obst, Kräuter und Beeren. Frei von chemischen Zusätzen, kein Zucker oder Soja."
+    },
+    "15": {
+      "description": "GESUNDE HAUT & GESUNDES FELL: Enthält Zink zur Unterstützung einer gesunden Haut und eines gesunden Fells. Angereichert mit Taurin, Vitamin E und Vitamin C, die für ihre Unterstützung der natürlichen Abwehrkräfte bekannt sind. Hergestellt aus hochwertigen Proteinen und Hefe, einer natürlichen Quelle von Präbiotika zur Unterstützung einer gesunden Verdauung. GESUNDER HARNWEG Ein kontrollierter Mineralstoffgehalt hilft, den unteren Harntrakt gesund zu halten. Mit angepasstem Protein- und Energiegehalt zur Unterstützung einer optimalen Gewichtskontrolle und körperlichen Verfassung."
+    },
+    "16": {
+      "description": "Genau richtig: Das Nassfutter Pure Sensitive mit Truthahn ist besonders geeignet für futtersensible oder empfindliche Hunde, die zu Unverträglichkeiten neigen. Das bedeutet, dass das Futter besonders hohen Ansprüchen gerecht wird. Ohne Getreide: Nach dem Single-Protein-Konzept enthält die Formel 100 % tierisches Protein aus Truthahn - nicht mehr und nicht weniger. Artgerecht: Mit MERA Pure Sensitive bieten Sie Ihrem Hund ein ganzheitliches Ernährungskonzept mit der Reduktion auf das Wesentliche, um das Allergiepotential zu reduzieren. Lassen Sie Ihren vierbeinigen Freund die Reinheit der Natur genießen."
+    },
+    "17": {
+      "description": "Natürlich schmackhaftes Hundefutter: mit viel frischem Fleisch, gefüllt mit hochwertigem und schmackhaftem Protein (kein Mehl, kein verarbeitetes oder getrocknetes Fleisch), kein GMO. Wir kochen die Zutaten schonend, um ihren Geschmack und ihre natürlichen Nährstoffe zu bewahren. Geeignet für erwachsene kastrierte oder nicht kastrierte Hunde aller Rassen und Größen. Mit einem getreidefreien und glutenfreien Sortiment ist unser Trockenfutter perfekt für empfindliche Mägen und enthält Präbiotika für einen gesunden Darm. Frisches Fleischfutter Dieses Rezept ist reich an frischem Lachs und Truthahn vom Bauernhof, gefüllt mit Omega-3 und 6 für ein weiches, glänzendes Fell und Fleisch zum Muskelaufbau und -erhalt."
+    },
+    "18": {
+      "description": "Niere – Royal Canin Veterinary Renal für Katzen hat eine spezielle Formel mit niedrigem Phosphorgehalt. Es ist ein vollständiges diätetisches Lebensmittel für erwachsene Katzen mit Nierenproblemen. Unterstützung der Nierenfunktion – das RC Veterinary Renal Katzenfutter hat einen moderaten Anteil an hochwertigen Proteinen, die zur Unterstützung der Nierenfunktion beitragen können. Lebensqualität – es kann helfen, die Lebensqualität der Katze zu verbessern. Ein angepasster Energiegehalt kann helfen, die Futtermenge zu reduzieren."
+    },
+    "19": {
+      "description": "Für erwachsene Hunde mit normaler bis gesteigerter Aktivität (mittlere bis große Rassen): vollwertiges Trockenfutter mit hohem Proteingehalt für die speziellen Ernährungsbedürfnisse erwachsener Hunde. Ausgewogener Protein- und Fettgehalt zur Entlastung von Leber, Nieren und Herz, für ein gesundes und glänzendes Fell. Niedriger Rohaschegehalt: leicht verdaulich, reduzierte Abfallmenge. Zutaten hauptsächlich aus Norddeutschland, Zusammensetzung: Geflügel, Lamm, Ei, Reis, ohne Weizen, Farbstoffe, Aromen oder Konservierungsstoffe."
+    },
+    "20": {
+      "description": "Einfache Entleerung und Reinigung: Mit einer herausziehbaren Schublade kann die Katzentoilette leicht entleert und mit neuer Streu befüllt werden. Eine beiliegende Schaufel und Bürste helfen, den Abfall zu schöpfen und die Streu oben oder in den Ecken zu reinigen. Das Gitterdesign oben reduziert die Bildung von Spuren und lässt die Streu in die Box zurückfallen. Dies reduziert die Spurenbildung im Haus und hält Ihr Zuhause sauber."
+    },
+    "21": {
+      "description": "Genau richtig: Das Nassfutter Pure Sensitive mit Truthahn ist besonders geeignet für futtersensible oder empfindliche Hunde, die zu Unverträglichkeiten neigen. Das bedeutet, dass das Futter besonders hohen Ansprüchen gerecht wird. Ohne Getreide: Nach dem Single-Protein-Konzept enthält die Formel 100 % tierisches Protein aus Truthahn - nicht mehr und nicht weniger. Artgerecht: Mit MERA Pure Sensitive bieten Sie Ihrem Hund ein ganzheitliches Ernährungskonzept mit der Reduktion auf das Wesentliche, um das Allergiepotential zu reduzieren. Lassen Sie Ihren vierbeinigen Freund die Reinheit der Natur genießen."
+    },
+    "22": {
+      "description": "Natürlich schmackhaftes Hundefutter: mit viel frischem Fleisch, gefüllt mit hochwertigem und schmackhaftem Protein (kein Mehl, kein verarbeitetes oder getrocknetes Fleisch), kein GMO. Wir kochen die Zutaten schonend, um ihren Geschmack und ihre natürlichen Nährstoffe zu bewahren. Geeignet für erwachsene kastrierte oder nicht kastrierte Hunde aller Rassen und Größen. Mit einem getreidefreien und glutenfreien Sortiment ist unser Trockenfutter perfekt für empfindliche Mägen und enthält Präbiotika für einen gesunden Darm. Frisches Fleischfutter Dieses Rezept ist reich an frischem Lachs und Truthahn vom Bauernhof, gefüllt mit Omega-3 und 6 für ein weiches, glänzendes Fell und Fleisch zum Muskelaufbau und -erhalt."
+    },
+    "23": {
+      "description": "Niere – Royal Canin Veterinary Renal für Katzen hat eine spezielle Formel mit niedrigem Phosphorgehalt. Es ist ein vollständiges diätetisches Lebensmittel für erwachsene Katzen mit Nierenproblemen. Unterstützung der Nierenfunktion – das RC Veterinary Renal Katzenfutter hat einen moderaten Anteil an hochwertigen Proteinen, die zur Unterstützung der Nierenfunktion beitragen können. Lebensqualität – es kann helfen, die Lebensqualität der Katze zu verbessern. Ein angepasster Energiegehalt kann helfen, die Futtermenge zu reduzieren."
+    },
+    "24": {
+      "description": "Für erwachsene Hunde mit normaler bis gesteigerter Aktivität (mittlere bis große Rassen): vollwertiges Trockenfutter mit hohem Proteingehalt für die speziellen Ernährungsbedürfnisse erwachsener Hunde. Ausgewogener Protein- und Fettgehalt zur Entlastung von Leber, Nieren und Herz, für ein gesundes und glänzendes Fell. Niedriger Rohaschegehalt: leicht verdaulich, reduzierte Abfallmenge. Zutaten hauptsächlich aus Norddeutschland, Zusammensetzung: Geflügel, Lamm, Ei, Reis, ohne Weizen, Farbstoffe, Aromen oder Konservierungsstoffe."
+    },
+    "25": {
+      "description": "Einfache Entleerung und Reinigung: Mit einer herausziehbaren Schublade kann die Katzentoilette leicht entleert und mit neuer Streu befüllt werden. Eine beiliegende Schaufel und Bürste helfen, den Abfall zu schöpfen und die Streu oben oder in den Ecken zu reinigen. Das Gitterdesign oben reduziert die Bildung von Spuren und lässt die Streu in die Box zurückfallen. Dies reduziert die Spurenbildung im Haus und hält Ihr Zuhause sauber."
+    }
+  }
+}

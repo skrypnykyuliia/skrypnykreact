@@ -1,0 +1,55 @@
+.button_cont {
+  margin: 0 auto;
+}
+.button_Add {
+  background-color: #0d50ff;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: center;
+  padding: 4% 16%;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  white-space: nowrap;
+}
+.button_Add:hover {
+  background-color: #282828;
+}
+.button_Add:active {
+  background-color: #fff;
+  color: #282828;
+  border: 1px solid #282828;
+}
+.active {
+  background-color: #fff;
+  color: #282828;
+  border: 1px solid #282828;
+  cursor: not-allowed;
+}
+.active:hover {
+  background-color: #fff;
+  color: #282828;
+  border: 1px solid #282828;
+}
+
+
+@media (max-width: 922px) {
+    .button_Add {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 768px) {
+    .button_Add {
+        font-size: 16px;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .button_Add {
+        font-size: 14px;
+    }
+}
+

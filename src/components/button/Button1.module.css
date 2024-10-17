@@ -1,0 +1,37 @@
+.button_cont {
+  margin: 0 auto;
+}
+.button_Add {
+  width: 90%;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  background-color: #0d50ff;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: center;
+  padding: 16px 32px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+}
+.button_Add:hover {
+  background-color: #282828;
+}
+.button_Add:active {
+  background-color: #fff;
+  color: #282828;
+  border: 1px solid #282828;
+}
+.active {
+  background-color: #fff;
+  color: #282828;
+  border: 1px solid #282828;
+  cursor: not-allowed;
+}
+.active:hover {
+  background-color: #fff;
+  color: #282828;
+  border: 1px solid #282828;
+}

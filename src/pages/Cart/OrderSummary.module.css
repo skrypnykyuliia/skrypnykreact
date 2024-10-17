@@ -1,0 +1,150 @@
+.CartPage_rigth {
+  width: 40%;
+  height: 100%;
+  background-color: #f1f3f4;
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.CartPage_Oder {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.CartH3 {
+  font-size: 40px;
+}
+.OderItems {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 52px;
+  text-align: left;
+  color: #8b8b8b;
+}
+
+.CartPage_Oder_Total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.CartPage_Oder_Total .CartPage_Oder_TotalPrice {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 4rem;
+  text-align: left;
+  color: #282828;
+}
+
+
+
+@media (max-width: 1200px) {
+  .CartPage_rigth {
+    padding: 16px 16px 24px;
+  }
+  .CartPage_Oder_TotalPrice span {
+    font-size: 44px;
+  }
+  .CartPage_Oder_Total 
+  .CartPage_Oder_TotalPrice {
+    font-size: 44px;
+  }
+  .OderItems {
+    font-size: 34px;
+  }
+  .CartH3 {
+    font-size: 36px;
+  }
+}
+
+
+@media (max-width: 922px) {
+  .CartPage_rigth {
+    margin: 0 auto;
+    width: 80%;
+  }
+  .CartPage_Oder_TotalPrice span {
+    font-size: 44px;
+  }
+  .CartPage_Oder_Total 
+  .CartPage_Oder_TotalPrice {
+    font-size: 44px;
+  }
+  .CartH3 {
+    font-size: 32px;
+  }
+  .OderItems {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .CartPage_rigth {
+    width: 90%;
+    gap: 16px;
+  }
+  .CartPage_Oder_TotalPrice span {
+    font-size: 36px;
+  }
+  .CartPage_Oder_Total 
+  .CartPage_Oder_TotalPrice {
+    font-size: 36px;
+  }
+  .CartH3 {
+    font-size: 28px;
+  }
+  .OderItems {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 576px) {
+  .CartPage_rigth {
+    margin: 0 auto;
+    width: 100%;
+    padding: 16px;
+  }
+  .CartPage_Oder_TotalPrice span {
+    font-size:28px;
+  }
+  .CartPage_Oder_Total 
+  .CartPage_Oder_TotalPrice {
+    font-size: 28px;
+  }
+  .CartH3 {
+    font-size: 24px;
+  }
+  .OderItems {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .CartPage_rigth {
+    padding: 12px;
+  }
+  .CartH3 {
+    font-size: 22px;
+  }
+  .OderItems {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 390px) {
+  .CartPage_Oder_TotalPrice span {
+    font-size: 26px;
+  }
+  .CartPage_Oder_Total 
+  .CartPage_Oder_TotalPrice {
+    font-size: 26px;
+  }
+  .CartH3 {
+    font-size: 18px;
+  }
+  .OderItems {
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,28 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background: var(--blue-color);
+    color: #fff !important;
+    padding: 30px;
+    border-radius: 8px;
+    position: relative;
+    text-align: left;
+    box-shadow: 1px 0 30px rgb(0, 0, 0, 0.5);
+  }
+  
+  .modal-content button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  

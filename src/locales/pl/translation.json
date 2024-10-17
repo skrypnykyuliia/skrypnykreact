@@ -1,0 +1,146 @@
+{
+  "mainPage": "Główna",
+  "categories": "Kategorie",
+  "allProducts": "Produkty",
+  "allSales": "Wyprzedaże",
+  "contact": "Kontakt",
+  "phone": "Telefon",
+  "social": "Społeczność",
+  "address": "Adres",
+  "workingHours": "Godziny pracy",
+  "hoursDay": "24 godziny na dobę",
+  "amazingDiscounts": "Niesamowite zniżki",
+  "onPetsProducts": "na produkty dla zwierząt!",
+  "checkOut": "Sprawdź",
+  "firstOrderDiscount": "5% zniżki na pierwsze zamówienie",
+  "name": "Imię",
+  "phoneNumber": "Numer telefonu",
+  "email": "Email",
+  "categoriesHome": "Kategorie",
+  "allCategories": "Wszystkie kategorie",
+  "sale": "Wyprzedaż",
+  "allSalesHome": "Wszystkie wyprzedaże",
+  "discount": "-{{percentage}}%",
+  "loading": "Ładowanie...",
+  "description": "Opis",
+  "categoryTitle": "Kategoria",
+  "productTitle": "Produkt",
+  "addToCart": "Do koszyka",
+  "pageNotFound": "Strona nie znaleziona",
+  "pageNotFoundMessage": "Przepraszamy, nie znaleziono strony, której szukasz. Proszę wrócić na stronę główną.",
+  "goHome": "Wróć do strony głównej",
+  "priceFrom": "Cena od",
+  "priceTo": "Cena do",
+  "newest": "Najnowsze",
+  "discounted": "Zniżkowe",
+  "priceHighToLow": "Cena: od najwyższej",
+  "priceLowToHigh": "Cena: od najniższej",
+  "price": "Cena",
+  "from": "od",
+  "to": "do",
+  "discountedItems": "Produkty zniżkowe",
+  "sorted": "Sortowane",
+  "byDefault": "domyślnie",
+  "shoppingCart": "Koszyk",
+  "emptyCartMessage": "Wygląda na to, że obecnie nie masz żadnych produktów w koszyku.",
+  "remove": "Usuń",
+  "orderDetails": "Szczegóły zamówienia",
+  "items": "produkty",
+  "total": "Razem",
+  "continueShopping": "Kontynuuj zakupy",
+  "Congratul": "Gratulacje",
+  "orderSuccessTitle": "Zamówienie udane",
+  "orderSuccessMessage": "Twoje zamówienie zostało pomyślnie złożone na stronie.",
+  "orderSuccessMessage1": "Wkrótce skontaktuje się z Tobą menedżer w celu potwierdzenia zamówienia.",
+  "added": "Dodano",
+  "getDiscount": "Uzyskaj rabat",
+  "requestSubmitted": "Żądanie zostało wysłane",
+  "backStore": "Wróć do sklepu",
+
+  "categories.1": "Suche jedzenie",
+  "categories.2": "Kuwety i toalety",
+  "categories.3": "Kosze i łóżka",
+  "categories.4": "Zabawki",
+  "categories.5": "Pielęgnacja",
+  "categories.6": "Przekąski",
+  "categories.7": "Ogrodzenie",
+  "categories.8": "Drzewka",
+
+  "products": {
+    "1": {
+      "description": "Wszechstronny wybór: odkryj kulinarny świat dla swojego małego czworonożnego przyjaciela z 2 rodzajami suchej karmy i 6 rodzajami mokrej karmy. Tak więc jest coś na każdy gust. Wysoka akceptacja: nasza zrównoważona formuła jest bogata w niezbędne składniki odżywcze, witaminy i minerały i jest dostosowana do potrzeb małych ras psów. Kompleksowa oferta, która spełnia wszystkie potrzeby. Sucha karma: Najlepsza GF Jagnięcina - łatwo przyswajalna i krokiety pokryte natychmiastowym sosem dla dodatkowego smaku. Najlepsze Croc - bogate w mięso i mąkę z pestek winogron. Mokra karma: otrzymasz wybór różnych rodzajów mokrej karmy z naszej oferty: pojedyncze białko z kurczaka, pojedyncze białko z bawoła, kaczka z ryżem i żurawiną, królik z prosem i słodkimi ziemniakami, jagnięcina z ryżem i pomidorami oraz kurczak/kaczka z prosem i ziemniakami. Wyprodukowano w Niemczech: Nasza karma jest produkowana zgodnie z najsurowszymi standardami jakości w Niemczech i nie zawiera sztucznych dodatków. Wszystkie używane produkty mięsne pochodzą od zwierząt dopuszczonych do spożycia przez ludzi."
+    },
+    "2": {
+      "description": "Naprawdę smaczne: Sucha karma dla małych ras psów do 10 kg umożliwia naturalne żywienie Twojego czworonożnego przyjaciela, jest w pełni dostosowana do jego potrzeb, bez zboża i bez sztucznych dodatków. Tylko najlepsze składniki: Karma z wysokiej jakości mięśniami i podrobami jest łatwo przyswajalna i dostarcza Twojemu futrzanemu nosowi cennych olejów, ważnych witamin, składników odżywczych i niezbędnych kwasów tłuszczowych. Ciesz się bez zboża: Sucha karma jest pełnowartościowym pokarmem dla małych ras psów i nie zawiera zboża, dodatków cukrowych, sztucznych barwników, aromatów i konserwantów we wszystkich odmianach."
+    },
+    "3": {
+      "description": "Premium: 100% świeże, mięsne składniki i podroby z kraju dostarczają najlepszych białek i zapewniają wyjątkowe doznania smakowe z tą karmą dla kotów. Dla dorosłych kotów: Carny Adult oznacza zrównoważone, smaczne i zdrowe odżywianie i dostarcza dorosłym kotom w wieku od 1 do 6 lat wszystkich niezbędnych składników odżywczych oraz dodatkowej porcji tauryny. Naturalne: Oczywiście, mokra karma dla kotów zawiera wyłącznie świeże składniki mięsne, bez wzmacniaczy smaku i bez zbóż, cukru, soi ani barwników i konserwantów."
+    },
+    "4": {
+      "description": "Bezzbożowa premium karma dla psów z dzikiem - dla dorosłych. Oryginalny, zgodny z gatunkiem, w 100% naturalny skład. Z 70% białka zwierzęcego, 30% składników roślinnych. Wysoka zawartość mięsa, a także warzywa, owoce, zioła i jagody. Bez chemicznych dodatków, bez cukru ani soi."
+    },
+    "5": {
+      "description": "ZDROWA SKÓRA I ZDROWA SIERŚĆ: Zawiera cynk, aby wspierać zdrową skórę i sierść. Wzbogacona tauryną, witaminą E i witaminą C, które są znane ze wspierania naturalnych mechanizmów obronnych. Wyprodukowana z wysokiej jakości białek i drożdży, naturalnego źródła prebiotyków wspierających zdrowe trawienie. ZDROWE DROGI MOCZOWE Kontrolowana zawartość minerałów pomaga utrzymać zdrowe dolne drogi moczowe. Z dostosowaną zawartością białka i energii, aby wspierać optymalną kontrolę wagi i kondycję fizyczną."
+    },
+    "6": {
+      "description": "Idealnie dopasowane: mokra karma Pure Sensitive z indykiem jest szczególnie odpowiednia dla psów wrażliwych na pokarm lub wrażliwych, które są podatne na nietolerancje. Oznacza to, że karma spełnia szczególnie wysokie wymagania. Bez zbóż: zgodnie z koncepcją pojedynczego białka, formuła zawiera 100% białka zwierzęcego z indyka - nie więcej i nie mniej. Odpowiednie dla gatunku: z MERA Pure Sensitive oferujesz swojemu psu holistyczną koncepcję żywienia z redukcją do najważniejszych rzeczy, aby zmniejszyć potencjał alergiczny. Pozwól swojemu czworonożnemu przyjacielowi cieszyć się czystością natury."
+    },
+    "7": {
+      "description": "Naturalnie smaczna karma dla psów: z dużą ilością świeżego mięsa, wypełniona wysokiej jakości i smacznym białkiem (bez mączki, bez przetworzonego lub suszonego mięsa), bez GMO. Ostrożnie gotujemy składniki, aby zachować ich smak i naturalne składniki odżywcze. Odpowiednia dla dorosłych, wykastrowanych lub niewykastrowanych psów wszystkich ras i rozmiarów. Z bezzbożowym i bezglutenowym asortymentem nasza sucha karma jest idealna dla wrażliwych żołądków i zawiera prebiotyki dla zdrowego jelita. Świeża karma mięsna Ten przepis jest bogaty w świeży łosoś i indyk z farmy, wypełniony omega-3 i 6 dla miękkiej, lśniącej sierści oraz mięso do budowy i utrzymania mięśni."
+    },
+    "8": {
+      "description": "Nerka – Royal Canin Veterinary Renal dla kotów ma specjalną formułę o niskiej zawartości fosforu. Jest to kompletna karma dietetyczna dla dorosłych kotów z problemami nerek. Wspiera funkcję nerek – karma RC Veterinary Renal dla kotów ma umiarkowaną zawartość wysokiej jakości białek, które mogą przyczyniać się do wspierania funkcji nerek. Jakość życia – może pomóc poprawić jakość życia kota. Dostosowana zawartość energii może pomóc zmniejszyć ilość pożywienia."
+    },
+    "9": {
+      "description": "Dla dorosłych psów o normalnej do zwiększonej aktywności (średnie do duże rasy): pełnoporcjowa sucha karma o wysokiej zawartości białka dla specjalnych potrzeb żywieniowych dorosłych psów. Zrównoważona zawartość białka i tłuszczu, aby odciążyć wątrobę, nerki i serce, dla zdrowej i lśniącej sierści. Niska zawartość surowego popiołu: lekkostrawna, zmniejszona ilość odpadów. Składniki głównie z północnych Niemiec, skład: drób, jajo jagnięce, ryż, bez pszenicy, barwników, aromatów ani konserwantów."
+    },
+    "10": {
+      "description": "Łatwe opróżnianie i czyszczenie: Dzięki wysuwanej szufladzie, kuweta dla kota może być łatwo opróżniana i napełniana nowym żwirkiem. W zestawie łopatka i szczotka pomagają w usuwaniu odpadów i czyszczeniu żwirku na górze lub w narożnikach. Kratka u góry zmniejsza ilość śladów i pozwala na spadanie żwirku z powrotem do kuwety. To zmniejsza ilość śladów w domu i utrzymuje dom w czystości."
+    },
+    "11": {
+      "description": "Wszechstronny wybór: odkryj kulinarny świat dla swojego małego czworonożnego przyjaciela z 2 rodzajami suchej karmy i 6 rodzajami mokrej karmy. Tak więc jest coś na każdy gust. Wysoka akceptacja: nasza zrównoważona formuła jest bogata w niezbędne składniki odżywcze, witaminy i minerały i jest dostosowana do potrzeb małych ras psów. Kompleksowa oferta, która spełnia wszystkie potrzeby. Sucha karma: Najlepsza GF Jagnięcina - łatwo przyswajalna i krokiety pokryte natychmiastowym sosem dla dodatkowego smaku. Najlepsze Croc - bogate w mięso i mąkę z pestek winogron. Mokra karma: otrzymasz wybór różnych rodzajów mokrej karmy z naszej oferty: pojedyncze białko z kurczaka, pojedyncze białko z bawoła, kaczka z ryżem i żurawiną, królik z prosem i słodkimi ziemniakami, jagnięcina z ryżem i pomidorami oraz kurczak/kaczka z prosem i ziemniakami. Wyprodukowano w Niemczech: Nasza karma jest produkowana zgodnie z najsurowszymi standardami jakości w Niemczech i nie zawiera sztucznych dodatków. Wszystkie używane produkty mięsne pochodzą od zwierząt dopuszczonych do spożycia przez ludzi."
+    },
+    "12": {
+      "description": "Naprawdę smaczne: Sucha karma dla małych ras psów do 10 kg umożliwia naturalne żywienie Twojego czworonożnego przyjaciela, jest w pełni dostosowana do jego potrzeb, bez zboża i bez sztucznych dodatków. Tylko najlepsze składniki: Karma z wysokiej jakości mięśniami i podrobami jest łatwo przyswajalna i dostarcza Twojemu futrzanemu nosowi cennych olejów, ważnych witamin, składników odżywczych i niezbędnych kwasów tłuszczowych. Ciesz się bez zboża: Sucha karma jest pełnowartościowym pokarmem dla małych ras psów i nie zawiera zboża, dodatków cukrowych, sztucznych barwników, aromatów i konserwantów we wszystkich odmianach."
+    },
+    "13": {
+      "description": "Premium: 100% świeże, mięsne składniki i podroby z kraju dostarczają najlepszych białek i zapewniają wyjątkowe doznania smakowe z tą karmą dla kotów. Dla dorosłych kotów: Carny Adult oznacza zrównoważone, smaczne i zdrowe odżywianie i dostarcza dorosłym kotom w wieku od 1 do 6 lat wszystkich niezbędnych składników odżywczych oraz dodatkowej porcji tauryny. Naturalne: Oczywiście, mokra karma dla kotów zawiera wyłącznie świeże składniki mięsne, bez wzmacniaczy smaku i bez zbóż, cukru, soi ani barwników i konserwantów."
+    },
+    "14": {
+      "description": "Bezzbożowa premium karma dla psów z dzikiem - dla dorosłych. Oryginalny, zgodny z gatunkiem, w 100% naturalny skład. Z 70% białka zwierzęcego, 30% składników roślinnych. Wysoka zawartość mięsa, a także warzywa, owoce, zioła i jagody. Bez chemicznych dodatków, bez cukru ani soi."
+    },
+    "15": {
+      "description": "ZDROWA SKÓRA I ZDROWA SIERŚĆ: Zawiera cynk, aby wspierać zdrową skórę i sierść. Wzbogacona tauryną, witaminą E i witaminą C, które są znane ze wspierania naturalnych mechanizmów obronnych. Wyprodukowana z wysokiej jakości białek i drożdży, naturalnego źródła prebiotyków wspierających zdrowe trawienie. ZDROWE DROGI MOCZOWE Kontrolowana zawartość minerałów pomaga utrzymać zdrowe dolne drogi moczowe. Z dostosowaną zawartością białka i energii, aby wspierać optymalną kontrolę wagi i kondycję fizyczną."
+    },
+    "16": {
+      "description": "Idealnie dopasowane: mokra karma Pure Sensitive z indykiem jest szczególnie odpowiednia dla psów wrażliwych na pokarm lub wrażliwych, które są podatne na nietolerancje. Oznacza to, że karma spełnia szczególnie wysokie wymagania. Bez zbóż: zgodnie z koncepcją pojedynczego białka, formuła zawiera 100% białka zwierzęcego z indyka - nie więcej i nie mniej. Odpowiednie dla gatunku: z MERA Pure Sensitive oferujesz swojemu psu holistyczną koncepcję żywienia z redukcją do najważniejszych rzeczy, aby zmniejszyć potencjał alergiczny. Pozwól swojemu czworonożnemu przyjacielowi cieszyć się czystością natury."
+    },
+    "17": {
+      "description": "Naturalnie smaczna karma dla psów: z dużą ilością świeżego mięsa, wypełniona wysokiej jakości i smacznym białkiem (bez mączki, bez przetworzonego lub suszonego mięsa), bez GMO. Ostrożnie gotujemy składniki, aby zachować ich smak i naturalne składniki odżywcze. Odpowiednia dla dorosłych, wykastrowanych lub niewykastrowanych psów wszystkich ras i rozmiarów. Z bezzbożowym i bezglutenowym asortymentem nasza sucha karma jest idealna dla wrażliwych żołądków i zawiera prebiotyki dla zdrowego jelita. Świeża karma mięsna Ten przepis jest bogaty w świeży łosoś i indyk z farmy, wypełniony omega-3 i 6 dla miękkiej, lśniącej sierści oraz mięso do budowy i utrzymania mięśni."
+    },
+    "18": {
+      "description": "Nerka – Royal Canin Veterinary Renal dla kotów ma specjalną formułę o niskiej zawartości fosforu. Jest to kompletna karma dietetyczna dla dorosłych kotów z problemami nerek. Wspiera funkcję nerek – karma RC Veterinary Renal dla kotów ma umiarkowaną zawartość wysokiej jakości białek, które mogą przyczyniać się do wspierania funkcji nerek. Jakość życia – może pomóc poprawić jakość życia kota. Dostosowana zawartość energii może pomóc zmniejszyć ilość pożywienia."
+    },
+    "19": {
+      "description": "Dla dorosłych psów o normalnej do zwiększonej aktywności (średnie do duże rasy): pełnoporcjowa sucha karma o wysokiej zawartości białka dla specjalnych potrzeb żywieniowych dorosłych psów. Zrównoważona zawartość białka i tłuszczu, aby odciążyć wątrobę, nerki i serce, dla zdrowej i lśniącej sierści. Niska zawartość surowego popiołu: lekkostrawna, zmniejszona ilość odpadów. Składniki głównie z północnych Niemiec, skład: drób, jajo jagnięce, ryż, bez pszenicy, barwników, aromatów ani konserwantów."
+    },
+    "20": {
+      "description": "Łatwe opróżnianie i czyszczenie: Dzięki wysuwanej szufladzie, kuweta dla kota może być łatwo opróżniana i napełniana nowym żwirkiem. W zestawie łopatka i szczotka pomagają w usuwaniu odpadów i czyszczeniu żwirku na górze lub w narożnikach. Kratka u góry zmniejsza ilość śladów i pozwala na spadanie żwirku z powrotem do kuwety. To zmniejsza ilość śladów w domu i utrzymuje dom w czystości."
+    },
+    "21": {
+      "description": "Idealnie dopasowane: mokra karma Pure Sensitive z indykiem jest szczególnie odpowiednia dla psów wrażliwych na pokarm lub wrażliwych, które są podatne na nietolerancje. Oznacza to, że karma spełnia szczególnie wysokie wymagania. Bez zbóż: zgodnie z koncepcją pojedynczego białka, formuła zawiera 100% białka zwierzęcego z indyka - nie więcej i nie mniej. Odpowiednie dla gatunku: z MERA Pure Sensitive oferujesz swojemu psu holistyczną koncepcję żywienia z redukcją do najważniejszych rzeczy, aby zmniejszyć potencjał alergiczny. Pozwól swojemu czworonożnemu przyjacielowi cieszyć się czystością natury."
+    },
+    "22": {
+      "description": "Naturalnie smaczna karma dla psów: z dużą ilością świeżego mięsa, wypełniona wysokiej jakości i smacznym białkiem (bez mączki, bez przetworzonego lub suszonego mięsa), bez GMO. Ostrożnie gotujemy składniki, aby zachować ich smak i naturalne składniki odżywcze. Odpowiednia dla dorosłych, wykastrowanych lub niewykastrowanych psów wszystkich ras i rozmiarów. Z bezzbożowym i bezglutenowym asortymentem nasza sucha karma jest idealna dla wrażliwych żołądków i zawiera prebiotyki dla zdrowego jelita. Świeża karma mięsna Ten przepis jest bogaty w świeży łosoś i indyk z farmy, wypełniony omega-3 i 6 dla miękkiej, lśniącej sierści oraz mięso do budowy i utrzymania mięśni."
+    },
+    "23": {
+      "description": "Nerka – Royal Canin Veterinary Renal dla kotów ma specjalną formułę o niskiej zawartości fosforu. Jest to kompletna karma dietetyczna dla dorosłych kotów z problemami nerek. Wspiera funkcję nerek – karma RC Veterinary Renal dla kotów ma umiarkowaną zawartość wysokiej jakości białek, które mogą przyczyniać się do wspierania funkcji nerek. Jakość życia – może pomóc poprawić jakość życia kota. Dostosowana zawartość energii może pomóc zmniejszyć ilość pożywienia."
+    },
+    "24": {
+      "description": "Dla dorosłych psów o normalnej do zwiększonej aktywności (średnie do duże rasy): pełnoporcjowa sucha karma o wysokiej zawartości białka dla specjalnych potrzeb żywieniowych dorosłych psów. Zrównoważona zawartość białka i tłuszczu, aby odciążyć wątrobę, nerki i serce, dla zdrowej i lśniącej sierści. Niska zawartość surowego popiołu: lekkostrawna, zmniejszona ilość odpadów. Składniki głównie z północnych Niemiec, skład: drób, jajo jagnięce, ryż, bez pszenicy, barwników, aromatów ani konserwantów."
+    },
+    "25": {
+      "description": "Łatwe opróżnianie i czyszczenie: Dzięki wysuwanej szufladzie, kuweta dla kota może być łatwo opróżniana i napełniana nowym żwirkiem. W zestawie łopatka i szczotka pomagają w usuwaniu odpadów i czyszczeniu żwirku na górze lub w narożnikach. Kratka u góry zmniejsza ilość śladów i pozwala na spadanie żwirku z powrotem do kuwety. To zmniejsza ilość śladów w domu i utrzymuje dom w czystości."
+    }
+  }
+}

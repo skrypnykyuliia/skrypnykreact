@@ -1,0 +1,257 @@
+.dark {
+  background-color: var(--background-color-dark);
+}
+
+.darkText {
+  color: var(--text-color-dark);
+}
+
+.footer {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 80px 40px;
+  padding-bottom: 80px;
+  background-color: var(--background-color);
+}
+
+.footer_title {
+  font-weight: 700;
+  line-height: 70.4px;
+  color: var(--text-color);
+}
+
+.footer_container {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  
+}
+
+.footer_info {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.footer_info_cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.footer_info_phone {
+  width: 60%;
+  background-color: #f1f3f4;
+  border: 1px solid #f1f3f4;
+  border-radius: 8px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer_info_social {
+  width: 40%;
+  background-color: #f1f3f4;
+  border: 1px solid #f1f3f4;
+  border-radius: 8px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer_info_phone_title {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  color: #8b8b8b;
+}
+
+.footer_info_phone.dark,
+.footer_info_social.dark {
+  background-color: #494949;
+  border: 1px solid #8f8f8f;
+}
+
+.footer_info_phone.light,
+.footer_info_social.light {
+  background-color: #f1f3f4;
+  border: 1px solid #f1f3f4;
+}
+
+.footer_info_phone_number {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 44px;
+  text-align: left;
+  --text-color-light: #282828;
+}
+.footer_info_phone_number.light {
+  color: var(--text-color-light);
+}
+
+.footer_info_phone_number.dark {
+  color: var(--text-color-dark);
+  background-color: #494949;
+}
+
+.footer_info_phone_img {
+  display: flex;
+  gap: 16px;
+}
+.footer_info_phone_img img {
+  transition: all 0.2s ease-in-out;
+}
+.footer_info_phone_img img:hover {
+  transform: translateY(2px);
+}
+
+.footer_map {
+  width: 100%;
+}
+
+.footer_map iframe {
+  width: 100%;
+  border-radius: 8px;
+}
+
+@media (max-width: 1200px) {
+  .footer_info_phone_title {
+    font-size: 28px;
+  }
+  .footer_info_phone_number {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 922px) {
+  .footer {
+    gap: 20px;
+    padding: 0 40px;
+    padding-bottom: 20px;
+  }
+  .footer_container {
+    gap: 16px;
+  }
+
+  .footer_info_card {
+    gap: 16px;
+  }
+  .footer_info_phone {
+    width: 100%;
+    padding: 16px 24px;
+    gap: 12px;
+  }
+  .footer_info_cards {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .footer_info_social {
+    width: 100%;
+    padding: 16px 24px;
+    gap: 12px;
+  }
+  .footer_info {
+    gap: 16px;
+  }
+  .footer_info_phone_title {
+    font-size: 24px;
+  }
+  .footer_info_phone_number {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .footer_container {
+    gap: 16px;
+  }
+
+  .footer_info_card {
+    gap: 16px;
+  }
+  .footer_info_phone {
+    width: 100%;
+    padding: 12px 24px;
+    gap: 8px;
+  }
+  .footer_info_cards {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .footer_info_social {
+    width: 100%;
+    padding: 16px 24px;
+    gap: 8px;
+  }
+  .footer_info {
+    gap: 8px;
+  }
+
+  .footer_info_phone_img img {
+    width: 70%;
+  }
+  .footer_info_phone_img {
+    gap: 8px;
+  }
+  .footer_info_phone_title {
+    font-size: 22px;
+  }
+  .footer_info_phone_number {
+    font-size: 28px;
+    line-height: 25px;
+  }
+}
+
+@media (max-width: 576px) {
+  .footer {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer_info_phone_title {
+    font-size: 16px;
+  }
+  .footer_info_phone_number {
+    font-size: 22px;
+    line-height: 25px;
+  }
+}
+
+@media (max-width: 390px) {
+  .footer {
+    gap: 40px;
+    padding: 0 10px;
+    gap: 5%;
+    padding-bottom: 10px;
+  }
+
+  .footer_info_phone_title {
+    font-size: 14px;
+  }
+  .footer_info_phone_number {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .footer_map iframe {
+    height: 50%;
+    border-radius: 8px;
+  }
+  .footer_info_phone {
+    padding: 8px;
+    gap: 0px;
+  }
+  .footer_info_social {
+    padding: 8px;
+    gap: 0px;
+  }
+}

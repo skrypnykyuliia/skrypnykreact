@@ -1,0 +1,149 @@
+{
+  "mainPage": "Main Page",
+  "categories": "Categories",
+  "allProducts": "All Products",
+  "allSales": "All Sales",
+  "contact": "Contact",
+  "phone": "Phone",
+  "social": "Social",
+  "address": "Address",
+  "workingHours": "Working Hours",
+  "hoursDay": "24 hours a day",
+  "amazingDiscounts": "Amazing Discounts",
+  "onPetsProducts": "on Pets Products!",
+  "checkOut": "Check out",
+  "firstOrderDiscount": "5% off on the first order",
+  "name": "Name",
+  "phoneNumber": "Phone number",
+  "email": "Email",
+  "categoriesHome": "Categories",
+  "allCategories": "All categories",
+  "sale": "Sale",
+  "allSalesHome": "All sales",
+  "discount": "-{{percentage}}%",
+  "loading": "Loading...",
+  "description": "Description",
+  "categoryTitle": "Category",
+  "productTitle": "Product",
+  "addToCart": "Add to cart",
+  "pageNotFound": "Page Not Found",
+  "pageNotFoundMessage": "We're sorry, the page you requested could not be found. Please go back to the homepage.",
+  "goHome": "Go Home",
+  "priceFrom": "Price From",
+  "priceTo": "Price To",
+  "newest": "Newest",
+  "discounted": "Discounted",
+  "priceHighToLow": "Price: High to Low",
+  "priceLowToHigh": "Price: Low to High",
+  "price": "Price",
+  "from": "from",
+  "to": "to",
+  "discountedItems": "Discounted items",
+  "sorted": "Sorted",
+  "byDefault": "by default",
+  "shoppingCart": "Shopping cart",
+  "emptyCartMessage": "Looks like you have no items in your basket currently.",
+  "remove": "Remove",
+  "orderDetails": "Order details",
+  "items": "items",
+  "total": "Total",
+  "continueShopping": "Continue Shopping",
+  "Congratul": "Congratulation",
+  "orderSuccessTitle": "Order Successful",
+  "orderSuccessMessage": "Your order has been successfully placed on the website.",
+  "orderSuccessMessage1": "A manager will contact you shortly to confirm your order.",
+  "getDiscount": "Get a discount",
+  "requestSubmitted": "Request Submitted",
+  "added": "Added",
+  "backStore": "Back to the store",
+
+  "categories.1": "Dry & Wet Food",
+  "categories.2": "Litter Boxes & Trays",
+  "categories.3": "Baskets & Beds",
+  "categories.4": "Toys",
+  "categories.5": "Care & Grooming",
+  "categories.6": "Snacks & Supplements",
+  "categories.7": "Runs & Fencing",
+  "categories.8": "Trees & Scratching",
+
+  "products": {
+    "1": {
+      "description": "Versatile selection: discover the culinary world for your little four-legged friend with 2 types of dry food and 6 types of wet food. So there is something for every taste. High acceptance: our balanced formula is rich in essential nutrients, vitamins and minerals and is tailored to the needs of small dog breeds. An all-round supply that leaves nothing to be desired. Dry food: Finest GF Lamb - easily digestible and a croquette coated with instant sauce for extra taste. Finest Croc - rich in meat and with grape seed flour. Wet food: you will receive a selection of different types of wet food from our range: single protein chicken, single protein buffalo, duck with rice and cranberries, rabbit with millet and sweet potato, lamb with rice and tomatoes and chicken/duck with millet and potatoes. Made in Germany: Our feed is manufactured under the strictest quality standards in Germany and contains no artificial additives. All meat products used come from food-safe animals."
+    },
+    "2": {
+      "description": "Really delicious: The dry dog food for small breeds up to 10 kg allows a natural diet of your four-legged friend, is completely tailored to his needs, grain-free and made without artificial additives. Only the best ingredients: the food with high-quality muscle meat and offal is easy to digest and provides your fur nose with valuable oils, important vitamins, nutrients and essential fatty acids. Enjoy grain-free: the dry food is a complete food for small dog breeds and does not use grains, sugar additives, artificial colours, flavours and preservatives in all varieties."
+    },
+    "3": {
+      "description": "Premium: 100% fresh, meaty ingredients and offal from the country provide the best proteins and ensure a very special taste experience with this cat food. For adult cats: Carny Adult stands for a balanced, delicious and healthy diet and provides adult cats aged 1-6 years with all the vital nutrients and an extra dose of taurine. Natural: Of course, the wet cat food contains exclusively fresh meat ingredients, no flavour enhancers and neither cereals, sugar and soy, nor dyes and preservatives"
+    },
+    "4": {
+      "description": "Grain-free premium dog food with wild boar - adult. Original, species-appropriate, 100% natural composition. With 70% animal protein, 30% plant ingredients. High meat content as well as vegetables, fruit, herbs and berries. Free from chemical additives, no sugar or soy."
+    },
+    "5": {
+      "description": "HEALTHY SKIN & HEALTHY COAT: Contains zinc to support healthy skin and coat. Enriched with Taurine Vitamin E and Vitamin C, which are known to support the natural defences. Made with high quality proteins and yeast, a natural source of prebiotics to support healthy digestion. HEALTHY URINARY TRACT A controlled mineral content helps maintain the lower urinary tract healthy. With tailored protein and energy content to support optimal weight control and physical condition"
+    },
+    "6": {
+      "description": "Как раз: влажный корм Pure Sensitive с индейкой особенно подходит для чувствительных к еде или чувствительных собак, склонных к непереносимости. Это означает, что корм удовлетворяет особенно высокие требования. Без зерна: согласно концепции монопротеина, формула содержит 100% животного белка из индейки - не больше и не меньше. Соответствует виду: с MERA pure sensitive вы предлагаете своей собаке целостную концепцию питания с сокращением до самого необходимого, чтобы снизить аллергический потенциал. Позвольте своему четвероногому другу насладиться чистотой природы."
+    },
+    "7": {
+      "description": "Just right: the wet food pure sensitive with turkey is particularly suitable for food-sensitive or sensitive dogs that are prone to intolerances. This means that the food meets particularly high demands. No cereals: according to the single protein concept, the formula contains 100 percent animal protein from turkey - no more and no less. Species-appropriate: with MERA pure sensitive you offer your dog a holistic nutritional concept with the reduction to the essentials to reduce the allergy potential. Let your four-legged friend enjoy the purity of nature"
+    },
+    "8": {
+      "description": "Naturally tasty dog food: with plenty of fresh meat, filled with high quality and tasty protein (no meal, no processed or dried meat), no GMO. We carefully cook the ingredients to preserve their taste and natural nutrients. Suitable for adult neutered or non-neutered dogs of all breeds and sizes. With a grain-free and gluten-free range, our dry food is perfect for sensitive stomachs and contains prebiotics for a healthy intestine.\nFresh Meat Feed This recipe is rich in fresh salmon and turkey from the farm, filled with omega-3 and 6 for a soft, shiny layer and meat for muscle building and preservation."
+    },
+    "9": {
+      "description": "Kidney – Royal Canin Veterinary Renal for cats has a special formula with low phosphorus content. It is a complete diet food for adult cats with kidney problems. Supports kidney function – the RC Veterinary Renal Cat food has a moderate proportion of high-quality proteins that can contribute to the support of kidney function. Quality of life – it can help improve the quality of life of the cat. An adapted energy content can help reduce the amount of food"
+    },
+    "10": {
+      "description": "For adult dogs with normal to increased activity (medium to large breeds): complete dry food with high protein content for the special nutritional needs of adult dogs. Balanced protein and fat content to relieve the liver, kidneys and heart, for a healthy and shiny coat. Low raw ash content: light, highly digestible, reduced amount of waste. Ingredients mainly from northern Germany, composition: poultry, lamb egg, rice, without wheat, colourings, flavours or preservatives"
+    },
+    "11": {
+      "description": "Easy to empty and clean: With a pull-out drawer, the cat litter box can be easily emptied and filled with new litter. Included scoop and brush help scoop the waste and clean the litter at the top or in the corners. The grid design at the top reduces trace formation and lets the litter fall back into the box. This reduces trace formation in the house and keeps your home clean."
+    },
+    "12": {
+      "description": "Versatile selection: discover the culinary world for your little four-legged friend with 2 types of dry food and 6 types of wet food. So there is something for every taste. High acceptance: our balanced formula is rich in essential nutrients, vitamins and minerals and is tailored to the needs of small dog breeds. An all-round supply that leaves nothing to be desired. Dry food: Finest GF Lamb - easily digestible and a croquette coated with instant sauce for extra taste. Finest Croc - rich in meat and with grape seed flour. Wet food: you will receive a selection of different types of wet food from our range: single protein chicken, single protein buffalo, duck with rice and cranberries, rabbit with millet and sweet potato, lamb with rice and tomatoes and chicken/duck with millet and potatoes. Made in Germany: Our feed is manufactured under the strictest quality standards in Germany and contains no artificial additives. All meat products used come from food-safe animals."
+    },
+    "13": {
+      "description": "Really delicious: The dry dog food for small breeds up to 10 kg allows a natural diet of your four-legged friend, is completely tailored to his needs, grain-free and made without artificial additives. Only the best ingredients: the food with high-quality muscle meat and offal is easy to digest and provides your fur nose with valuable oils, important vitamins, nutrients and essential fatty acids. Enjoy grain-free: the dry food is a complete food for small dog breeds and does not use grains, sugar additives, artificial colours, flavours and preservatives in all varieties."
+    },
+    "14": {
+      "description": "Premium: 100% fresh, meaty ingredients and offal from the country provide the best proteins and ensure a very special taste experience with this cat food. For adult cats: Carny Adult stands for a balanced, delicious and healthy diet and provides adult cats aged 1-6 years with all the vital nutrients and an extra dose of taurine. Natural: Of course, the wet cat food contains exclusively fresh meat ingredients, no flavour enhancers and neither cereals, sugar and soy, nor dyes and preservatives"
+    },
+    "15": {
+      "description": "Grain-free premium dog food with wild boar - adult. Original, species-appropriate, 100% natural composition. With 70% animal protein, 30% plant ingredients. High meat content as well as vegetables, fruit, herbs and berries. Free from chemical additives, no sugar or soy."
+    },
+    "16": {
+      "description": "HEALTHY SKIN & HEALTHY COAT: Contains zinc to support healthy skin and coat. Enriched with Taurine Vitamin E and Vitamin C, which are known to support the natural defences. Made with high quality proteins and yeast, a natural source of prebiotics to support healthy digestion. HEALTHY URINARY TRACT A controlled mineral content helps maintain the lower urinary tract healthy. With tailored protein and energy content to support optimal weight control and physical condition"
+    },
+    "17": {
+      "description": "Как раз: влажный корм Pure Sensitive с индейкой особенно подходит для чувствительных к еде или чувствительных собак, склонных к непереносимости. Это означает, что корм удовлетворяет особенно высокие требования. Без зерна: согласно концепции монопротеина, формула содержит 100% животного белка из индейки - не больше и не меньше. Соответствует виду: с MERA pure sensitive вы предлагаете своей собаке целостную концепцию питания с сокращением до самого необходимого, чтобы снизить аллергический потенциал. Позвольте своему четвероногому другу насладиться чистотой природы."
+    },
+    "18": {
+      "description": "Just right: the wet food pure sensitive with turkey is particularly suitable for food-sensitive or sensitive dogs that are prone to intolerances. This means that the food meets particularly high demands. No cereals: according to the single protein concept, the formula contains 100 percent animal protein from turkey - no more and no less. Species-appropriate: with MERA pure sensitive you offer your dog a holistic nutritional concept with the reduction to the essentials to reduce the allergy potential. Let your four-legged friend enjoy the purity of nature"
+    },
+    "19": {
+      "description": "Naturally tasty dog food: with plenty of fresh meat, filled with high quality and tasty protein (no meal, no processed or dried meat), no GMO. We carefully cook the ingredients to preserve their taste and natural nutrients. Suitable for adult neutered or non-neutered dogs of all breeds and sizes. With a grain-free and gluten-free range, our dry food is perfect for sensitive stomachs and contains prebiotics for a healthy intestine.\nFresh Meat Feed This recipe is rich in fresh salmon and turkey from the farm, filled with omega-3 and 6 for a soft, shiny layer and meat for muscle building and preservation."
+    },
+    "20": {
+      "description": "Kidney – Royal Canin Veterinary Renal for cats has a special formula with low phosphorus content. It is a complete diet food for adult cats with kidney problems. Supports kidney function – the RC Veterinary Renal Cat food has a moderate proportion of high-quality proteins that can contribute to the support of kidney function. Quality of life – it can help improve the quality of life of the cat. An adapted energy content can help reduce the amount of food"
+    },
+    "21": {
+      "description": "For adult dogs with normal to increased activity (medium to large breeds): complete dry food with high protein content for the special nutritional needs of adult dogs. Balanced protein and fat content to relieve the liver, kidneys and heart, for a healthy and shiny coat. Low raw ash content: light, highly digestible, reduced amount of waste. Ingredients mainly from northern Germany, composition: poultry, lamb egg, rice, without wheat, colourings, flavours or preservatives"
+    },
+    "22": {
+      "description": "Easy to empty and clean: With a pull-out drawer, the cat litter box can be easily emptied and filled with new litter. Included scoop and brush help scoop the waste and clean the litter at the top or in the corners. The grid design at the top reduces trace formation and lets the litter fall back into the box. This reduces trace formation in the house and keeps your home clean."
+    },
+    "23": {
+      "description": "Easy to empty and clean: With a pull-out drawer, the cat litter box can be easily emptied and filled with new litter. Included scoop and brush help scoop the waste and clean the litter at the top or in the corners. The grid design at the top reduces trace formation and lets the litter fall back into the box. This reduces trace formation in the house and keeps your home clean."
+    },
+    "24": {
+      "description": "Easy to empty and clean: With a pull-out drawer, the cat litter box can be easily emptied and filled with new litter. Included scoop and brush help scoop the waste and clean the litter at the top or in the corners. The grid design at the top reduces trace formation and lets the litter fall back into the box. This reduces trace formation in the house and keeps your home clean."
+    },
+    "25": {
+      "description": "Easy to empty and clean: With a pull-out drawer, the cat litter box can be easily emptied and filled with new litter. Included scoop and brush help scoop the waste and clean the litter at the top or in the corners. The grid design at the top reduces trace formation and lets the litter fall back into the box. This reduces trace formation in the house and keeps your home clean."
+    }
+  }
+}
+
+
+

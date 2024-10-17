@@ -1,0 +1,142 @@
+.sale_flexBox {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.sale_flexBox:hover {
+  background-color: #f0f0f0;
+  transform: translateY(-2px);
+  box-shadow: 0 0 10px silver;
+}
+.sale_flexBox a {
+  text-decoration: none;
+}
+
+.sale_flexBoxImg {
+  border-bottom: 1px solid #dddddd;
+  position: relative;
+  max-height: 284px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  overflow: hidden;
+}
+.sale_flexBox img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  height: 100%;
+  max-height: 284px;
+  object-fit: cover;
+}
+
+.discountTag {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #0d50ff;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.sale_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex-grow: 1;
+  gap: 16px;
+  padding: 0 32px 32px 32px;
+}
+.sale_text1 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+.sale_textP {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 44px;
+  text-align: left;
+}
+.sale_textP span {
+  text-decoration: line-through;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  color: #8b8b8b;
+}
+
+.button_cont {
+  display: none;
+}
+.sale_flexBox:hover .button_cont {
+  display: flex;
+}
+
+
+
+@media (max-width: 1200px) {
+  .sale_text1 {
+    font-size: 1.1rem;
+  }
+  .sale_text {
+    gap: 12px;
+    padding: 0 12px 12px 12px;
+  }
+  .sale_textP {
+    font-size: 24px;
+  }
+  .discountTag {
+    font-size: 16px;
+  }
+  .sale_flexBox {
+    gap: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sale_text1 {
+    font-size: 1rem;
+  }
+  .sale_text {
+    gap: 12px;
+    padding: 0 12px 12px 12px;
+  }
+  .sale_textP {
+    font-size: 24px;
+  }
+  .sale_textP span {
+    font-size: 18px;
+  }
+  .discountTag {
+    font-size: 16px;
+  }
+  .sale_flexBox {
+    gap: 16px;
+  }
+}
+
+@media (max-width: 390px) {
+  .sale_text {
+    gap: 4px;
+    padding: 0 16px 16px 16px;
+  }
+}
+
